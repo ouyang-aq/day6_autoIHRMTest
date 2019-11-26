@@ -1,0 +1,56 @@
+2019-11-19 16:34:23,059INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:02:58,942INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:02:59,255INFO[root][TestLogin.py(test01_login_success:20)]-测试登陆成功接口返回的数据为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f542715f-7ad1-47c3-b115-82ba3f2fc7e7'}
+2019-11-19 17:18:20,027INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:18:20,371INFO[root][TestLogin.py(test01_login_success:20)]-测试登陆成功接口返回的数据为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0d34af05-9fae-4128-a0f7-b73110615b69'}
+2019-11-19 17:18:20,480INFO[root][TestLogin.py(test02_mobile_is_not_exist:29)]-测试登陆成功接口返回的数据为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'ec05b294-d23f-4d20-b51c-b2ee33d5d584'}
+2019-11-19 17:19:05,259INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:19:05,608INFO[root][TestLogin.py(test01_login_success:20)]-测试登陆成功接口返回的数据为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'd1308956-d1c4-4cb2-b34c-be3975a7b15f'}
+2019-11-19 17:19:05,702INFO[root][TestLogin.py(test02_mobile_is_not_exist:29)]-测试登陆成功接口返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-19 17:30:40,840INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:31:10,620INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:31:10,948INFO[root][TestLogin.py(test01_login_success:21)]-测试登陆成功接口返回的数据为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '1ce62f96-35de-46e6-b640-316bff8d6894'}
+2019-11-19 17:31:11,042INFO[root][TestLogin.py(test02_mobile_is_not_exist:31)]-测试登陆成功接口返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-19 17:37:15,134INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-19 17:37:15,462INFO[root][TestLogin.py(test01_login_success:21)]-测试登陆成功接口返回的数据为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f3196a4c-7fd4-45f4-a4fd-abd8d45f7a4a'}
+2019-11-19 17:37:15,556INFO[root][TestLogin.py(test02_mobile_is_not_exist:31)]-测试登陆成功接口返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 00:21:56,396INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-20 00:24:03,024INFO[root][__init__.py(<module>:6)]-测试打印日志
+.py(test04_mobile_is_not:48)]-测试账号为空返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+oginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:55:29,102INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:55:29,196INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:55:29,289INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:55:29,383INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:56:15,491INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-20 15:56:15,757INFO[root][utils.py(read_login_data:24)]-read_login_data:[{'mobile:': '13800000002', 'password': '123456', 'http_code': 200, 'success': True, 'code': 10000, 'message': '操作成功'}, {'mobile:': '13600000011', 'password': '123456', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': '', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}]
+2019-11-20 15:56:15,757INFO[root][utils.py(read_login_data:34)]-result_list: [(None, '123456', 200, True, 10000, '操作成功'), (None, '123456', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, '', 200, False, 20001, '用户名或密码错误')]
+2019-11-20 15:56:15,851INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:56:15,944INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:56:16,038INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:56:16,147INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:56:16,241INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:57:21,620INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-20 15:57:21,932INFO[root][utils.py(read_login_data:24)]-read_login_data:[{'mobile:': '13800000002', 'password': '123456', 'http_code': 200, 'success': True, 'code': 10000, 'message': '操作成功'}, {'mobile:': '13640219933', 'password': '123456', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': '', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}]
+2019-11-20 15:57:21,932INFO[root][utils.py(read_login_data:34)]-result_list: [(None, '123456', 200, True, 10000, '操作成功'), (None, '123456', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, '', 200, False, 20001, '用户名或密码错误')]
+2019-11-20 15:57:22,041INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:57:22,182INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:57:22,307INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:57:22,432INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:57:22,542INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:58:35,721INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-20 15:58:35,955INFO[root][utils.py(read_login_data:24)]-read_login_data:[{'mobile:': '13800000002', 'password': '123456', 'http_code': 200, 'success': True, 'code': 10000, 'message': '操作成功'}, {'mobile:': '13900000002', 'password': '123456', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': '', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}]
+2019-11-20 15:58:35,955INFO[root][utils.py(read_login_data:34)]-result_list: [(None, '123456', 200, True, 10000, '操作成功'), (None, '123456', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, '', 200, False, 20001, '用户名或密码错误')]
+2019-11-20 15:58:36,158INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:58:36,267INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:58:36,361INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:58:36,455INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:58:36,564INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:59:37,333INFO[root][__init__.py(<module>:6)]-测试打印日志
+2019-11-20 15:59:37,583INFO[root][utils.py(read_login_data:24)]-read_login_data:[{'mobile:': '13800000002', 'password': '123456', 'http_code': 200, 'success': True, 'code': 10000, 'message': '操作成功'}, {'mobile:': '12361235902', 'password': '123456', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '', 'password': 'error', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}, {'mobile:': '13800000002', 'password': '', 'http_code': 200, 'success': False, 'code': 20001, 'message': '用户名或密码错误'}]
+2019-11-20 15:59:37,583INFO[root][utils.py(read_login_data:34)]-result_list: [(None, '123456', 200, True, 10000, '操作成功'), (None, '123456', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, 'error', 200, False, 20001, '用户名或密码错误'), (None, '', 200, False, 20001, '用户名或密码错误')]
+2019-11-20 15:59:37,693INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:59:37,787INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:59:37,896INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:59:37,990INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-11-20 15:59:38,083INFO[root][TestLoginparams.py(test01_login_success:26)]-测试登陆成功返回的数据为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
